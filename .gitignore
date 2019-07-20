@@ -1,0 +1,16 @@
+.config/Slack
+.config/Code - OSS
+.config/spotify
+.config/tlpui
+.config/mono*
+.config/gtk*
+.config/bookwarm
+.config/xfce4
+.config/TEA*
+.config/Postman
+.config/Pinta
+.config/bookworm/books
+.config/dconf/
+.config/bookworm
+.config/Thunar
+mimeapps*
