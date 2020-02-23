@@ -263,6 +263,8 @@ client.unfocused        #5f819d #000000 #5f819d #2b2b2b
 client.urgent           #900000 #900000 #ffffff #2b2b2b
 
 # Run on startup
+exec_always --no-startup-id xrandr --dpi 125.37
+
 exec_always --no-startup-id setxkbmap -option 'altwin:swap_alt_win'
 
 exec_always --no-startup-id feh --bg-scale ~/wallpapers/mars_batt.png
