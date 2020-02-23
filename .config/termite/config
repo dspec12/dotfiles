@@ -6,7 +6,7 @@
 #cell_width_scale = 1.0
 #clickable_url = true
 #dynamic_title = true
-font = SF Mono 11
+font = Overpass Mono SemiBold 14
 #fullscreen = true
 #icon_name = terminal
 #mouse_autohide = false
@@ -43,42 +43,39 @@ hyperlinks = true
 [colors]
 
 # special
-foreground      = #a39a90
-foreground_bold = #a39a90
-cursor          = #a39a90
-#background      = #16130f
-#background      = rgba(22, 19, 15, 0.9)
-background      = rgba(0, 0, 0, 0.9)
+foreground      = #c5c8c6
+foreground_bold = #c5c8c6
+cursor          = #c5c8c6
+background      = #1d1f21
 
 # black
-color0  = #16130f
-color8  = #5a5047
+color0  = #1d1f21
+color8  = #969896
 
 # red
-color1  = #826d57
-color9  = #826d57
+color1  = #cc6666
+color9  = #cc6666
 
 # green
-color2  = #57826d
-color10 = #57826d
+color2  = #b5bd68
+color10 = #b5bd68
 
 # yellow
-color3  = #6d8257
-color11 = #6d8257
+color3  = #f0c674
+color11 = #f0c674
 
 # blue
-color4  = #6d5782
-color12 = #6d5782
+color4  = #81a2be
+color12 = #81a2be
 
 # magenta
-color5  = #82576d
-color13 = #82576d
+color5  = #b294bb
+color13 = #b294bb
 
 # cyan
-color6  = #576d82
-color14 = #576d82
+color6  = #8abeb7
+color14 = #8abeb7
 
 # white
-color7  = #a39a90
-color15 = #dbd6d1
-
+color7  = #c5c8c6
+color15 = #ffffff
